@@ -1,5 +1,3 @@
-text
-
 # 🎧 AudioInsights Web
 
 ## 🌈 Unleash the Power of Your Audio Content
@@ -34,17 +32,14 @@ text
 2. Navigate to the project directory:
 
 cd audioinsights-web
-text
 
 3. Install dependencies:
 
 npm install
-text
 
 4. Start the development server:
 
 npm run dev
-text
 
 5. Open your browser and visit `http://localhost:5173`
 
@@ -88,6 +83,6 @@ Have any suggestions or found a bug? Open an issue or submit a pull request!
 
 ---
 
-Made with 🎵 and 💻 by [Your Name/Team]
+Made with 🎵 and 💻 by Poom5741
 
 [⬆ Back to Top](#audioinsights-web)
