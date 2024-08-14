@@ -27,7 +27,7 @@ const UploadAudio: React.FC = () => {
       formData.append("audio", file);
 
       const response = await axios.post(
-        "http://37.27.35.61:3000/transcript",
+        "http://37.27.35.61:3000/api/transcripts",
         formData,
         {
           headers: {
